@@ -26,6 +26,7 @@ header {
     background: var(--base-color);
     position: fixed;
     width: 100%;
+    z-index: 10000;
 }
 
 h1 {
@@ -45,6 +46,7 @@ svg {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 }
 .logo {
     display: flex;
@@ -87,3 +89,5 @@ span {
 section {
     height: 100vh;
 }
+
+/**/
