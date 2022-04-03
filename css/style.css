@@ -159,11 +159,19 @@ section .img {
     background-size: cover;
 }
 .artigo__virtualizacao .img {
-    background: url(#);
+    background: url(../img/img_vm.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
+
+.artigo__virtualizacao .img {
+    background: url(../img/img_vm.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .artigo__redes .img {
     background: url(https://inputec.com.br/wp-content/uploads/2019/12/Inputec-Tipos-De-Redes-Internet-Computadores-Tecnologia-Da-Informa%C3%A7%C3%A3o-960x675.jpg);
     background-repeat: no-repeat;
@@ -192,7 +200,7 @@ section .img {
 /* Footer (sobre o grupo) */
 footer {
     width: 100%;
-    height: 350px;
+    height: 400px;
     background-color: #171717;
     color: #ffffff;
     display: flex;
