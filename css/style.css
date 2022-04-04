@@ -160,7 +160,7 @@ section .img {
     background-size: cover;
 }
 .artigo__virtualizacao .img {
-    background: url(#);
+    background: url(../img/pc.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
