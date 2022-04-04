@@ -35,6 +35,7 @@ header {
     height: 6.25rem;
     position: fixed;
     width: 100%;
+    z-index: 1000;
 }
 .header-scrolled {
     animation: header_backgroud 0.5s linear both;
