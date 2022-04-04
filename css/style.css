@@ -28,6 +28,7 @@ body {
     background: var(--body-color);
     font: 500 1rem 'Roboto', sans-serif;
     color: var(--text-color);
+    height: fit-content;
 }
 
 /* Header e Hero(banner) */
@@ -237,3 +238,5 @@ footer {
         height: 2rem;
     }
 }
+
+
