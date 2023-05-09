@@ -1,3 +1,5 @@
+ - [github-pages](https://guimoreirac.github.io/Blog-DH/)
+
 # Checkpoint: BlogII DH
 
 Atividade referente ao segundo checkpoint da disciplina de Introdução a Informática.
